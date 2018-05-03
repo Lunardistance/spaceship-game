@@ -1,0 +1,11 @@
+{
+  "name": "webpack-setup",
+  "version": "1.0.0",
+  "description": "Webpackyy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gabriel Luciano",
+  "license": "ISC"
+}
